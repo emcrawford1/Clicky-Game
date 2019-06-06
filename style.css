@@ -1,0 +1,9 @@
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box{
+  margin: 1.5% 0.75% 0%;
+}
